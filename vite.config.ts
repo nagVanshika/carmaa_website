@@ -16,5 +16,5 @@ export default defineConfig(({ mode }) => ({
     },
   },
   // :point_down: IMPORTANT for GitHub Pages
-  base: "/carmaa_website.github.io/",
+  base: "/carmaa_website/",
 }));
